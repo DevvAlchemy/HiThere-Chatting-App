@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>574514247976-3llo24irk26uoseh8n41ha4qgashkmmj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.574514247976-3llo24irk26uoseh8n41ha4qgashkmmj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJ2nL6k1BGhJeZeQjEeW66tMUKIoJ5wKc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>574514247976</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>DevvAlchemy.HiThere</string>
+	<key>PROJECT_ID</key>
+	<string>hithere-c4ecd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hithere-c4ecd.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:574514247976:ios:1fea2597339aa311acf81d</string>
+</dict>
+</plist>
